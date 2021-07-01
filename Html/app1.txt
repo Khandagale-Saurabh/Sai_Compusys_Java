@@ -1,0 +1,6 @@
+<HTML>
+
+</body>
+<APPLET CODE="app1.class" HEIGHT="200" WIDTH="300"></APPLET>
+</body>
+<HTML>
