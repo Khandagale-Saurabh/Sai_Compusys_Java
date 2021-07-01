@@ -1,0 +1,11 @@
+class demo
+{
+   static class x
+   {
+      static int j=90;
+   }
+   public static void main(String aaa[])
+   {
+     System.out.println();
+   }
+}
